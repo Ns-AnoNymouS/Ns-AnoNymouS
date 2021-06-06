@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 [<p align="center">
-<img src="https://telegra.ph/file/661f584f5aecc25011d9b.jpg">](https://telegram.dog/Ns_AnoNymouS)
+<img src="https://telegra.ph/file/09654482ed77949e5df4c.jpg">](https://telegram.dog/doreamonfans1)
 
-## I am [𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬](https://telegram.dog/Ns_AnoNymouS)
+## I am [Doreamonfans1](https://telegram.dog/doreamonfans1)
 
 - 🔭 I’m currently working on telegram botz
 
@@ -28,14 +28,14 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with ...
 
-- 📫 How to reach me: [@Ns_AnoNymouS](https://telegram.dog/Ns_AnoNymouS)(Telegram)
+- 📫 How to reach me: [@doreamonfans1](https://telegram.dog/doreamonfans1)(Telegram)
 
 ### Available 👇
 
-[![Anonymous Telegram](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg)](https://telegram.dog/Ns_AnoNymouS)
+[![doreamonfans Telegram](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg)](https://telegram.dog/doreamonfans1)
 
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Ns_AnoNymouS/&title=Profile%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/disneyteam76/&title=Profile%20Views)
 
 
 ### Skills 👨‍💻
