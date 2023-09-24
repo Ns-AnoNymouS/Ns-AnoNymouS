@@ -1,12 +1,12 @@
 <h1>Hi there <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/sleeping.png", width=50>
-  <source media="(prefers-color-scheme: light)" srcset="images/Work.png" width=50>
+  <source media="(prefers-color-scheme: dark)" srcset="images/giphy.gif", width=50>
+  <source media="(prefers-color-scheme: light)" srcset="images/giphy.gif" width=50>
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png", width=25>
 </picture></h1>
 
 ## ABOUT
 <p align="center">
-<a href=https://telegram.dog/Ns_AnoNymouS ><img alt="dev" width=150 src=./images/dev.png></a><br>
+<a href=https://telegram.dog/Ns_AnoNymouS ><img alt="dev" width=150  src=./images/dev.png></a><br>
 <b>Name:</b> Naveen Kumar<br>
 <b>Studing at:</b> IIIT Sri City<br>
 <b>Course:</b> CSE (Computer Science and Engineering)<br>
@@ -16,10 +16,12 @@
 ## Skills :man_technologist:
 
 <p align="center">
-<a href=https://www.python.org><img alt=python src=./images/python.png width=50></a>
-<a href=https://www.cprogramming.com><img alt="C programming" src=./images/c.png width=40>
-<a href=https://www.w3schools.com/html><img alt="html" src=./images/html_css.png width=50></a>
-<a href=https://docs.oracle.com/en/java><img alt="css" src=./images/java.png width=36></a>
+<a href=https://www.python.org><img alt=python src=./images/python.png width=110></a>
+<a href=https://www.cprogramming.com><img alt="C programming" src=./images/c.png width=60>
+<a href=https://www.w3schools.com/html><img alt="html" src=./images/HTML.png width=80></a>
+<a href=https://www.w3schools.com/css><img alt="css" src=./images/CSS.png width=57></a>
+<a href=https://docs.oracle.com/en/java><img alt="js" src=./images/js.png width=75></a>
+<a href=https://docs.oracle.com/en/java><img alt="java" src=./images/java.png width=100></a>
 </p>
 
 ## Git Status :chart_with_upwards_trend:
@@ -29,7 +31,7 @@
 
 ### Contact ME :octocat:
 <p align="center">
-<a href=https://telegram.dog/Ns_AnoNymouS><img alt=Telegram width=100 src=./images/Telegram.png></a>
+<a href=https://telegram.dog/Ns_AnoNymouS><img alt=Telegram width=100 src=./images/Telegram.webp></a>
 </p>
 
 <details><summary>Programming languages</summary>
