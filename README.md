@@ -6,7 +6,7 @@
 
 ## ABOUT
 <p align="center">
-<a href=https://telegram.dog/Ns_AnoNymouS ><img alt="dev" width=150 src=./images/developer.png></a><br>
+<a href=https://telegram.dog/Ns_AnoNymouS ><img alt="dev" width=150 src=./images/dev.png></a><br>
 <b>Name:</b> Naveen Kumar<br>
 <b>Studing at:</b> IIIT Sri City<br>
 <b>Course:</b> CSE (Computer Science and Engineering)<br>
@@ -16,10 +16,10 @@
 ## Skills :man_technologist:
 
 <p align="center">
-<a href=https://www.python.org><img alt=python src=./images/Python.png width=50></a>
-<a href=https://www.cprogramming.com><img alt="C programming" src=./images/C_Programming.png width=40>
-<a href=https://www.w3schools.com/html><img alt="html" src=./images/HTML5.png width=50></a>
-<a href=https://www.w3schools.com/css/><img alt="css" src=./images/CSS.png width=36></a>
+<a href=https://www.python.org><img alt=python src=./images/python.png width=50></a>
+<a href=https://www.cprogramming.com><img alt="C programming" src=./images/c.png width=40>
+<a href=https://www.w3schools.com/html><img alt="html" src=./images/html_css.png width=50></a>
+<a href=https://docs.oracle.com/en/java><img alt="css" src=./images/java.png width=36></a>
 </p>
 
 ## Git Status :chart_with_upwards_trend:
