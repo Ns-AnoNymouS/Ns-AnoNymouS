@@ -22,6 +22,8 @@
 <a href=https://www.w3schools.com/css><img alt="css" src=./images/CSS.png width=57></a>
 <a href=https://docs.oracle.com/en/java><img alt="js" src=./images/js.png width=75></a>
 <a href=https://docs.oracle.com/en/java><img alt="java" src=./images/java.png width=100></a>
+<a href=https://docs.oracle.com/en/java><img alt="java" src=./images/Android.png width=70></a>
+<a href=https://docs.oracle.com/en/java><img alt="java" src=./images/mongodb.png width=60></a>
 </p>
 
 ## Git Status :chart_with_upwards_trend:
@@ -47,3 +49,5 @@
 
 </p>
 </details>
+<br>
+<a href="https://www.buymeacoffee.com/NaveenKumarL" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
