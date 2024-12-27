@@ -34,7 +34,7 @@
 ## 💬 Contact Me
 
 <a href="https://telegram.dog/Ns_AnoNymouS">
-  <img alt="Telegram" src="./images/Telegram.webp" width="50">
+  <img alt="Telegram" src="https://img.icons8.com/color/48/000000/telegram-app.png" width="50">
 </a>
 <a href="mailto:lankotunaveen@gmail.com">
   <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="50">
