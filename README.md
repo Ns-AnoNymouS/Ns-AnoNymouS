@@ -1,11 +1,8 @@
-<h1><samp>Hi there I'm Naveen Kumar! <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/giphy.gif" width="50">
-  <source media="(prefers-color-scheme: light)" srcset="images/giphy.gif" width="50">
-  <img alt="Illustrated sun/moon" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width="25">
-</picture></samp></h1>
+<h2><samp>Hi there I'm Naveen Kumar!
+  <img src="images/giphy.gif" width="50"></samp></h2>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Cool Animated GIF" style="max-width: 80%">
+  <img src="https://raw.githubusercontent.com/Ns-AnoNymouS/Ns-AnoNymouS/main/images/cool.gif" alt="Cool Animated GIF" style="max-width: 80%">
 </div>
 
 ## 🌟 About Me
@@ -19,10 +16,10 @@
       I enjoy creating robust systems and learning new tools to enhance my skill set.
     </p>
 
-## 🛠️ Skills and Tech Stack
+## 🛠️ Tools and Languages 
 
 <p align="center"> 
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ns-AnoNymouS/Ns-AnoNymouS/output/skills.png" width="500px">
+  <img alt="Tools and Languages" src="https://raw.githubusercontent.com/Ns-AnoNymouS/Ns-AnoNymouS/main/images/skills.png" width="500px">
 </p>
 
 
